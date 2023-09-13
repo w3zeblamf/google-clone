@@ -11,7 +11,7 @@ It's fast, flexible, and reliable — with zero-runtime.
 #### Screenshot:
 
 <p style= "align:center">
-  <img src="https://ibb.co/c8VQS4V" width="100%" height="100%" title="Google Clone" alt="#google-clone">
+  <img src="https://i.ibb.co/t2FDTVF/screenshot.png" width="100%" height="100%" title="Google Clone" alt="#google-clone">
 </p>
 
 
